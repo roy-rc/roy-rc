@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mí
 
-Ingeniero en Informática con **más de 15 años de experiencia** en desarrollo backend, arquitectura de software y liderazgo técnico. Especializado en ecosistema PHP y frameworks modernos como Laravel y Symfony, con sólido dominio de Python y Node.js para desarrollo de aplicaciones escalables y soluciones de automatización.
+Ingeniero en Informática con **más de 15 años de experiencia** en desarrollo backend, arquitectura de software y liderazgo técnico. Especializado en ecosistema PHP y frameworks modernos como Laravel y Symfony, con sólido dominio de Python, Node.js, React para desarrollo de aplicaciones escalables y soluciones de automatización.
 
 Experto en diseño de APIs RESTful, integraciones empresariales y soluciones e-commerce de alto rendimiento. Mi enfoque combina una sólida base técnica con habilidades de liderazgo, orientación a resultados y compromiso con la mejora continua. 
 
